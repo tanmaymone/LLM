@@ -1,5 +1,7 @@
 import string
 from symbol import tfpdef
+from sre_parse import Tokenizer
+
 import numpy as np
 import pandas as pd
 import tensorflow as tf
@@ -7,7 +9,6 @@ from tensorflow.keras.layers import Input, Embedding, LSTM, Dense
 from tensorflow.keras.models import Model
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
-from sre_parse import Tokenizer
 
 # reading dataset
 df = pd.read_csv('topical_chat.csv')
