@@ -1,0 +1,16 @@
+Some of the data sets for vibration/temperature/machine health monitoring system are:
+
+- Deep Learning Algorithms for Machinery Health Prognostics Using Time-Series Data: A Review¹: This paper reviews the recent research works on implementing deep learning algorithms for machinery health prognostics using time-series data, such as vibration, temperature, acoustic emission, electric current, and oil debris. It also outlines the characteristics of a few benchmark time-series machinery failure data sets available in open repositories.
+- Vibration Analysis for Machine Monitoring and Diagnosis: A Systematic Review²: This paper provides a systematic review of up-to-date vibration analysis methods and techniques for machine monitoring and diagnosis. It also presents some publicly available vibration data sets for different types of machines and faults, such as bearing, gearbox, rotor, and motor faults.
+- Temperature and Vibration Monitoring System³: This website offers a software solution for temperature and vibration monitoring system using wireless sensors. It also provides some sample data sets for temperature and vibration signals from various machines and equipment.
+- Vibration Monitoring | KCF Technologies⁴: This website provides a wireless vibration monitoring system that collects and analyzes vibration data from various sensors and transmits it to an IoT platform. It also offers some case studies and success stories of using vibration monitoring for machine health optimization.
+- Vibration Monitoring System | Phantom®⁵: This website provides a wireless vibration monitoring system that uses Bluetooth Low Energy (BLE) 5.0 technology to collect and transmit vibration data from various sensors. It also offers some sample data sets for vibration signals from different types of machines and faults.
+
+Source: Conversation with Bing, 13/6/2023(1) Deep Learning Algorithms for Machinery Health Prognostics ... - Springer. https://link.springer.com/article/10.1007/s42417-021-00286-x Accessed 13/6/2023.
+(2) Vibration Analysis for Machine Monitoring and Diagnosis: A ... - Hindawi. https://www.hindawi.com/journals/sv/2021/9469318/ Accessed 13/6/2023.
+(3) Temperature and vibration monitoring system || Kudamm Softwares. https://kudammcorp.com/softwares/temperature-and-vibration-monitoring-system Accessed 13/6/2023.
+(4) Vibration Monitoring | KCF Technologies. https://kcftech.com/learn/machine-health-optimization/vibration-monitoring/ Accessed 13/6/2023.
+(5) Vibration Monitoring System | Wireless BLE 5.0 | Phantom®. https://www.erbessd-instruments.com/vibration-monitoring/ Accessed 13/6/2023.
+
+
+https://towardsdatascience.com/training-your-own-message-suggestions-model-using-deep-learning-3609c0057ba8
